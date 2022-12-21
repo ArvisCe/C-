@@ -1,0 +1,8 @@
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\bin\Debug\Kalkulators2.exe.config
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\bin\Debug\Kalkulators2.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\bin\Debug\Kalkulators2.pdb
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\obj\Debug\Kalkulators2.csprojResolveAssemblyReference.cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\obj\Debug\Kalkulators2.MainForm.resources
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\obj\Debug\Kalkulators2.csproj.GenerateResource.Cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\obj\Debug\Kalkulators2.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Kalkulators2\Kalkulators2\obj\Debug\Kalkulators2.pdb
