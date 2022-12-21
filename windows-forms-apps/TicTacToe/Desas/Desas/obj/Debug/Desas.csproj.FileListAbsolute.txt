@@ -1,0 +1,8 @@
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\obj\Debug\Desas.csprojResolveAssemblyReference.cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\obj\Debug\Desas.MainForm.resources
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\obj\Debug\Desas.csproj.GenerateResource.Cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\bin\Debug\Desas.exe.config
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\bin\Debug\Desas.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\bin\Debug\Desas.pdb
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\obj\Debug\Desas.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Desas\Desas\obj\Debug\Desas.pdb
