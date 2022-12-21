@@ -1,0 +1,8 @@
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\bin\Debug\Karatavas.exe.config
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\bin\Debug\Karatavas.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\bin\Debug\Karatavas.pdb
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\obj\Debug\Karatavas.csprojResolveAssemblyReference.cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\obj\Debug\Karatavas.MainForm.resources
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\obj\Debug\Karatavas.csproj.GenerateResource.Cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\obj\Debug\Karatavas.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\Karatavas\Karatavas\obj\Debug\Karatavas.pdb
