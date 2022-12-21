@@ -1,0 +1,8 @@
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\bin\Debug\FourInARow.exe.config
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\bin\Debug\FourInARow.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\bin\Debug\FourInARow.pdb
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\obj\Debug\FourInARow.csprojResolveAssemblyReference.cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\obj\Debug\FourInARow.MainForm.resources
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\obj\Debug\FourInARow.csproj.GenerateResource.Cache
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+C:\Users\skolotajs\Documents\SharpDevelop Projects\FourInARow\FourInARow\obj\Debug\FourInARow.pdb
